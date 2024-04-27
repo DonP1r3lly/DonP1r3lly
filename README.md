@@ -43,6 +43,18 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/SolidWorks 2018-F05032?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Cura 3d Software-FF6C37?style=for-the-badge&&logoColor=white">
+  <img src="https://img.shields.io/badge/FreeCad-F37623?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux Mint-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logoColor=white">
+</span>
+
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 I am a data engineer passionate about computer science and the new challenges of each day.
