@@ -1,4 +1,8 @@
-### Hi there 👋 my name is David. Data engineer and Materials engineer
+
+<h1 align="center"><b> Hi there 👋 my name is David. Data engineer and Materials engineer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+### 
 Since I was very young, I have been passionate about computer science and cars, as well as competition, such as Formula 1 or endurance racing. Data plays a crucial role today, just as a good car design can be optimized with data as well.
 
 In this GitHub repository, I will upload content related to both programming and projects I have worked on in the past as well as currently. Enjoy the content, and if you appreciate my profile and the content provided, feel free to contact me.
