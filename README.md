@@ -7,6 +7,28 @@
        alt="snake" /></a>
 </div>
 
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logoColor=black">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL SERVER-07405E?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white">
+
+</span>
+
+
+
 <h4> Operating System </h4>
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
