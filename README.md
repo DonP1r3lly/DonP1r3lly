@@ -46,11 +46,11 @@
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/SolidWorks 2018-F05032?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Cura 3d Software-FF6C37?style=for-the-badge&&logoColor=white">
+  <img src="https://img.shields.io/badge/Cura 3d Software-FF6C37?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/FreeCad-F37623?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux Mint-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux Mint-F05032?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logoColor=white">
 </span>
 
