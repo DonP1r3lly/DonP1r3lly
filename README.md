@@ -1,5 +1,5 @@
 
-<h1 align="center"><b> Hi there, my name is David. Data engineer and Materials engineer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi there, my name is David. Engineer with some Hate/love for computers </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--- snake -->
 <div align="center">
@@ -57,15 +57,16 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-I am a data engineer passionate about computer science and the new challenges of each day.
+I have experienced many failures over the past few years, and ultimately, all of this has led me back to the field of computer science. Do not be afraid of failing; 
+Do what you feel you must do, as long as you do not harm others.
 
-I began my studies in materials engineering with a master's degree in robotics and programming in Python, followed by several certifications in mechanical design of parts as well as molds and welding pieces. I have participated in mechanical design competitions for 3 years and visited the Goodyear Innovation Center in Luxembourg. From 2019 to 2021, I gained significant knowledge in mechanical design, product design, and materials strength. Additionally, I founded a startup called Martinez99 3D in Luxembourg with the aim of manufacturing parts at home using 3D printing. However, after a major setback and upon the recommendation of a friend, I discovered the field of data. I then resumed my skills in MATLAB and Python programming, realizing my true potential. Furthermore, with the help of advanced technology, I developed my skills in SQL programming, database management, and machine learning.
+
 
 ## More about me:
 
-- 🔭 I’m currently working on Spain
-- 🌱 I’m currently learning IA and Machine Learning
-- 👯 I’m looking to collaborate on anyone
+- 🔭 I’m currently on Spain
+- 🌱 I’m currently learning too much things
+- 👯 I’m looking to collaborate on anyone, except fake hackers.. there too much on social media, i can't with this hehehe
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love data and Cars competition like Formula 1
 
